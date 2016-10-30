@@ -5,24 +5,6 @@
   4. divide()
 */
 
-// function add(firstNum, secondNum) {
-//   return firstNum + secondNum
-// }
-//
-// function subtract(firstNum, secondNum) {
-//   return firstNum - secondNum
-// }
-//
-// function multiply(firstNum, secondNum) {
-//   return firstNum * secondNum
-// }
-//
-// function divide(firstNum, secondNum) {
-//   return firstNum / secondNum
-// }
-
-// prototype inheritance
-
 var Calculator = function(num1, num2) {
   this.num1 = num1;
   this.num2 = num2;
