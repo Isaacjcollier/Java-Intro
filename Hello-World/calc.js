@@ -1,9 +1,3 @@
-/*
-  1. add()
-  2. subtract()
-  3. multiply()
-  4. divide()
-*/
 
 var Calculator = function(num1, num2) {
   this.num1 = num1;
